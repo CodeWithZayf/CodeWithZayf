@@ -45,8 +45,8 @@ Here are some of the projects I'm most proud of:
 ---
 
 ### 📫 **Connect with Me:**
-- **LinkedIn**: [Md Zafir Hasan](https://www.linkedin.com/in/your-link/)
-- **Email**: your-email@example.com
+- **LinkedIn**: [Md Zafir Hasan](https://www.linkedin.com/in/mdzafirhasan/)
+- **Email**: mr.zafirhasan@gmail.com
 - **Portfolio**: [Coming soon!]
 
 ---
