@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student 
 ---
 
 ### 🌱 **Current Projects:**
-- **🌿 Plant Information and Care App** (Smart India Hackathon): A web app designed to help users learn about various plant species, track their growth, detect diseases, and provide care reminders.
+- **🌿 Plant Information and Care App** : A web app designed to help users learn about various plant species, track their growth, detect diseases, and provide care reminders.
 - **🤖 Smart Garbage Collection Car**: An autonomous vehicle capable of cleaning garbage from lakes and ponds using AI.
 - **🐟 AI-Powered Fishing Boat**: A project aimed at developing a boat that uses AI to automate fish-catching efficiently.
   
