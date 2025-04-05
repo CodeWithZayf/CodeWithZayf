@@ -1,63 +1,84 @@
-# Hi there, I'm Md Zafir Hasan! 👋
+# 👋 Hi there, I'm Md Zafir Hasan!
 
-### 🚀 Computer Science Student | AI & ML Enthusiast | Innovator
+### 🚀 Computer Science Student | 🤖 AI & ML Enthusiast | 🛠 Innovator
 
-Welcome to my GitHub profile! I'm a B.Tech Computer Science Engineering student passionate about AI, machine learning, and building innovative tech solutions. Currently, I'm working on projects that blend AI with practical applications, like smart agriculture and autonomous systems.
-
----
-
-### 🌱 **Current Projects:**
-- **🌿 Plant Information and Care App** : A web app designed to help users learn about various plant species, track their growth, detect diseases, and provide care reminders.
-- **🤖 Smart Garbage Collection Car**: An autonomous vehicle capable of cleaning garbage from lakes and ponds using AI.
-- **🐟 AI-Powered Fishing Boat**: A project aimed at developing a boat that uses AI to automate fish-catching efficiently.
-  
----
-
-### 💻 **Technical Skills:**
-- **Programming Languages**: Python, JavaScript, C++, Java
-- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV
-- **Web Development**: React, Node.js, HTML/CSS, Flask
-- **Databases**: MySQL, MongoDB
-- **Cloud**: AWS, GitHub Actions, Docker
-- **Version Control**: Git, GitHub
+Welcome to my GitHub! I'm a B.Tech Computer Science Engineering student with a passion for Artificial Intelligence, Machine Learning, and building smart, real-world tech solutions. I'm on a mission to combine innovation with impact — one project at a time!
 
 ---
 
-### 💡 **Goals:**
-- To **patent** my AI/ML project during my B.Tech.
-- Build scalable **AI solutions** for industries.
-- Contribute to **open-source AI and ML** projects.
+## 🌱 Current Projects
+
+- 🔍 **Plant Info & Disease Detection App**  
+  A smart web app that provides detailed plant species data, growth tracking, disease detection using image analysis, and care reminders with weather-based advice.
+
+- 🧹 **AI-Powered Garbage Collector Car**  
+  An autonomous vehicle prototype for cleaning lakes and ponds using AI and computer vision.
+
+- 🎣 **AI Fishing Boat Prototype**  
+  A self-operating boat that detects and catches fish using AI algorithms and sensor input.
 
 ---
 
-### 🔭 **What I’m focusing on:**
-- Building an **AI-powered garbage collection system** and a **plant disease detection app**.
-- Exploring **innovative AI applications** for environmental sustainability and smart agriculture.
+## 💻 Tech Stack
+
+| Domain               | Tools & Technologies                                                                 |
+|----------------------|--------------------------------------------------------------------------------------|
+| **Languages**        | Python, JavaScript, C++, Java                                                       |
+| **AI/ML**            | TensorFlow, PyTorch, Scikit-learn, OpenCV                                           |
+| **Web Development**  | React, Node.js, HTML/CSS, Flask                                                     |
+| **Databases**        | MySQL, MongoDB                                                                      |
+| **Cloud & DevOps**   | AWS, Docker, GitHub Actions                                                         |
+| **Version Control**  | Git, GitHub                                                                          |
 
 ---
 
-### 🛠 **Pinned Repositories:**
-Here are some of the projects I'm most proud of:
-- [**Plant Disease Detection App**](#) 🌱
-- [**AI Smart Garbage Collection Car**](#) 🤖
-- [**AI Fishing Boat Prototype**](#) 🐟
+## 🎯 Goals for 2025
+
+- 🧠 Patent my AI/ML project before graduation  
+- 🌐 Build scalable AI solutions for real-world problems  
+- 🤝 Contribute to open-source AI/ML projects  
+- 🌍 Develop AI tools for environmental sustainability and smart agriculture  
 
 ---
 
-### 📫 **Connect with Me:**
-- **LinkedIn**: [Md Zafir Hasan](https://www.linkedin.com/in/mdzafirhasan/)
-- **Email**: mr.zafirhasan@gmail.com
-- **Portfolio**: [Coming soon!]
+## 🔭 What I’m Working On
+
+- ⚙️ Real-time **Language Translation System** (Android app)
+- 🌾 AI tools for **Smart Agriculture** (weather-responsive plant care)
+- 🚗 Hardware projects with **Arduino**, **camera modules**, and **motors**
 
 ---
 
-### 📊 **GitHub Stats:**
-![Zafir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+## 📌 Featured Projects
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🌿 [**Plant Disease Detection App**](#)  
+  Real-time image-based disease analysis using ML and OpenCV.
+
+- 🤖 [**Smart Garbage Collection Car**](#)  
+  Lake/pond cleaning vehicle with object detection and autonomous navigation.
+
+- 🐟 [**AI-Powered Fishing Boat**](#)  
+  Prototype for automatic fish-catching using AI and sensors.
 
 ---
 
-Thanks for visiting my GitHub! Feel free to explore my repositories and connect with me. Let's build something amazing together! 😄
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn – Md Zafir Hasan](https://www.linkedin.com/in/mdzafirhasan/)
+- 📧 Email: mr.zafirhasan@gmail.com
+- 🌐 Portfolio: *Coming Soon...*
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdzafirhasan&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzafirhasan&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+### 🔍 Motto: *"Build with purpose. Code with passion. Innovate for impact."*
+
+Thanks for stopping by! Feel free to explore my repos, give feedback, or just say hi. Let's build something amazing together! 😊
