@@ -73,8 +73,8 @@ Welcome to my GitHub! I'm a B.Tech Computer Science Engineering student with a p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdzafirhasan&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzafirhasan&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithZayf&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithZayf&layout=compact&theme=radical" height="165">
 </p>
 
 ---
