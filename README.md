@@ -37,7 +37,11 @@ From Kolkata, India 🇮🇳
 
 ## 🧰 Featured Project
 
-- [RescueWave](https://github.com/CodeWithZayf/RescueWave): Ransomware Detection System
+- [RescueWave](https://github.com/CodeWithZayf/RescueWave): Community Based Emergency-Response System
+  
+## 🧰 Featured Repositories
+- [GeeksForGeeks 160 Days of DSA](https://github.com/CodeWithZayf/GFG-160-DAYS): 🧩 My daily solutions for the GeeksforGeeks 160 Days DSA Challenge — 160 days of consistency, problem-solving, and leveling up my coding skills. 🚀 Goal: Master data structures and algorithms while building a public proof of my progress!
+- [Striver’s SDE Sheet](https://github.com/CodeWithZayf/Striver-SDE-Sheet): Solutions for Striver’s SDE Sheet in JAVA — my journey to ace Data Structures & Algorithms, one problem at a time.
 
 ---
 
