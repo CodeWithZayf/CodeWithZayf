@@ -45,11 +45,11 @@ From Kolkata, India 🇮🇳
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithZayf&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithZayf&theme=dark&hide_border=false" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithZayf&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithZayf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithZayf&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
