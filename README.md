@@ -19,6 +19,9 @@ From Kolkata, India 🇮🇳
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithZayf&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
+![](https://github-readme-stats.vercel.app/api?username=CodeWithZayf&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CodeWithZayf&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithZayf&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
