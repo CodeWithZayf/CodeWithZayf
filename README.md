@@ -15,7 +15,7 @@ From Kolkata, India 🇮🇳
 ### 🌟 Main Projects
 - **[RescueWave](https://github.com/CodeWithZayf/RescueWave)**: Community Based Emergency-Response System.
 - **[APIScout](https://github.com/CodeWithZayf/APIscout)**: Helping developers choose the right API faster, without noise.
-- **[FireBarrier](https://github.com/InnovAuraz/RescueWave)**: AI-Powered Network Firewall.
+- **[FireBarrier](https://github.com/InnovAuraz/FireBarrier)**: AI-Powered Network Firewall.
 
 ### 📚 Coding Practice
 - **[GeeksForGeeks 160 Days of DSA](https://github.com/CodeWithZayf/GFG-160-DAYS)**: 🧩 My daily solutions for the GeeksforGeeks 160 Days DSA Challenge — 160 days of consistency, problem-solving, and leveling up my coding skills. 🚀 Goal: Master data structures and algorithms while building a public proof of my progress!
