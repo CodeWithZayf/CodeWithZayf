@@ -49,14 +49,6 @@ NGFW with ML-based anomaly detection using LSTM + Isolation Forest ensemble. Rea
  
 ---
  
-## DSA Practice
- 
-Consistent daily problem solving on LeetCode and GeeksForGeeks.  
-Focus: Arrays · Sliding Window · Trees · Graphs · Dynamic Programming
- 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/CodeWithZayf?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/CodeWithZayf)
- 
----
  
 *Open to SDE internship opportunities — AI/ML systems and full-stack engineering.*  
 *Reach me at [hello@mdzafirhasan.in](mailto:hello@mdzafirhasan.in)*
